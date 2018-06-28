@@ -1,0 +1,3 @@
+earfone
+hairclip
+pet
