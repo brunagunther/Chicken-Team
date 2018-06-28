@@ -1,3 +1,3 @@
-earfone
-hairclip
-pet
+fancy earfone 
+hairclip chicken  
+pet chicken
